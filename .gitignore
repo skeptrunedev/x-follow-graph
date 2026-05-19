@@ -1,0 +1,10 @@
+# Personal follow-graph data — never commit
+*.json
+*.err
+*.csv
+unfollow-urls.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
