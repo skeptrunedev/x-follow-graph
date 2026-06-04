@@ -3,6 +3,7 @@
 *.err
 *.csv
 unfollow-urls.txt
+pitch-batch.txt
 
 # Python
 __pycache__/
